@@ -24,6 +24,7 @@ MERGED from [com.android.support:support-core-ui:25.0.1] /media/dzecevic/DomoDat
 MERGED from [com.android.support:support-fragment:25.0.1] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:25.0.1] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -59,6 +60,7 @@ MERGED from [com.android.support:support-core-ui:25.0.1] /media/dzecevic/DomoDat
 MERGED from [com.android.support:support-fragment:25.0.1] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-vector-drawable:25.0.1] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.0.1] /media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion

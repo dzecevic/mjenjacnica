@@ -20,12 +20,12 @@
         "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -172,15 +172,15 @@
         "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_select_dialog_material.xml"
     },
     {
+        "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
-        "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_big_media_narrow_custom.xml"
     }
 ]
