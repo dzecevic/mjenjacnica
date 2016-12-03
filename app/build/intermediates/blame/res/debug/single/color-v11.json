@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/media/dzecevic/DomoData1/AndroidStudioProjects/mjenacnica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
